@@ -5,11 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Tech+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=3dddy21&label=Profile%20views&color=0e75b6&style=flat](https://picryl.com/media/zombie-death-dead-people-8a1224?zoom=true)" alt="3dddy21" />
-</p>
-
 ---
 
 ### 👨‍💻 Обо мне:
