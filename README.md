@@ -24,5 +24,5 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
---
+---
 *⭐️ Этот профиль обновляется автоматически с помощью GitHub Actions.*
