@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Обо мне
-- 🔭 Сейчас работаю над **FSA** — системой аналитики для розничной сети (FastAPI + Vue 3).
+- 🔭 Сейчас работаю над системой аналитики/анализа для розничной сети (FastAPI + Vue 3).
 - 🌱 Изучаю **асинхронные драйверы БД** (asyncpg, SQLAlchemy 2.0) и паттерны проектирования для высоконагруженных систем.
 - 💡 Верю, что строгая типизация и автоматизация (CI/CD, pre-commit, DeepSeek Harness) освобождают время для творчества
 
@@ -29,15 +29,5 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
----
-
-### 📊 GitHub Статистика
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3dddy21&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3dddy21&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
----
----
+--
 *⭐️ Этот профиль обновляется автоматически с помощью GitHub Actions.*
